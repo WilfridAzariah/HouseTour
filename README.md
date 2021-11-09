@@ -2,6 +2,8 @@
 
 Simple House Tour Game (using free assets) where you will be spawned inside a house, can walk around and interact with some of the house's objects.
 
+Made using Unity 3D 2020.3.16f
+
 ## Assets
 
 - https://assetstore.unity.com/packages/3d/environments/urban/devden-archviz-vol-1-scotland-158539
