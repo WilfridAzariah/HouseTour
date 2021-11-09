@@ -1,0 +1,1 @@
+{"root":[{"assemblyName":"Unity.InputSystem","nameSpace":"UnityEngine.InputSystem","className":"InputSystem","methodName":"RunInitializeInPlayer","loadTypes":1,"isUnityClass":true},{"assemblyName":"UnityEngine.UIElementsInputSystemModule","nameSpace":"UnityEngine.InputSystem.Composites","className":"InputSystemInitializer","methodName":"Init","loadTypes":2,"isUnityClass":true}]}
